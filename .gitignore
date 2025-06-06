@@ -29,3 +29,6 @@ Thumbs.db
 *~
 *.bak
 *.tmp
+
+# Gigacode specific files
+.gigaide/
