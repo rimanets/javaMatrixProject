@@ -1,0 +1,31 @@
+# Compiled class files
+*.class
+
+# Jar files
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+logs/
+
+# IDE files (IntelliJ IDEA)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Build artifacts
+target/ # For Maven projects
+build/  # For Gradle projects
+out/    # Default output for some IDEs
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.bak
+*.tmp
